@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 531
+# TOTAL: 536
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,bdcb.cc
   - DOMAIN-SUFFIX,beautifulcarrot.com
   - DOMAIN-SUFFIX,belimked.com
+  - DOMAIN-SUFFIX,betahub.tech
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,biandangroup.com
   - DOMAIN-SUFFIX,biaoda.me
@@ -242,6 +243,7 @@ payload:
   - DOMAIN-SUFFIX,hwbim.com
   - DOMAIN-SUFFIX,hwjianmo.com
   - DOMAIN-SUFFIX,hwzuku.com
+  - DOMAIN-SUFFIX,hybiome.com
   - DOMAIN-SUFFIX,hzlawyer.net
   - DOMAIN-SUFFIX,hzqsn.com
   - DOMAIN-SUFFIX,icvcs.com
@@ -345,6 +347,7 @@ payload:
   - DOMAIN-SUFFIX,onebuygz.com
   - DOMAIN-SUFFIX,onetools.top
   - DOMAIN-SUFFIX,opentrust.net
+  - DOMAIN-SUFFIX,osbdf.com
   - DOMAIN-SUFFIX,ottai.com
   - DOMAIN-SUFFIX,ottiptv.cc
   - DOMAIN-SUFFIX,ourschool.cc
@@ -432,6 +435,7 @@ payload:
   - DOMAIN-SUFFIX,thmnet.com
   - DOMAIN-SUFFIX,timbrd.com
   - DOMAIN-SUFFIX,tixue.net
+  - DOMAIN-SUFFIX,tmallyc.com
   - DOMAIN-SUFFIX,tnas.link
   - DOMAIN-SUFFIX,tnas.online
   - DOMAIN-SUFFIX,tool56.com
@@ -527,6 +531,7 @@ payload:
   - DOMAIN-SUFFIX,zsytit.com
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
+  - DOMAIN-SUFFIX,zysou.com
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - SRC-PORT,41641
   - IP-CIDR,108.174.48.100/32,no-resolve

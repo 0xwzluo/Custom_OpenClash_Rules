@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 524
+# TOTAL: 529
 
 payload:
   - '*m-team*'
@@ -75,6 +75,7 @@ payload:
   - '+.bdcb.cc'
   - '+.beautifulcarrot.com'
   - '+.belimked.com'
+  - '+.betahub.tech'
   - '+.bgm.tv'
   - '+.biandangroup.com'
   - '+.biaoda.me'
@@ -242,6 +243,7 @@ payload:
   - '+.hwbim.com'
   - '+.hwjianmo.com'
   - '+.hwzuku.com'
+  - '+.hybiome.com'
   - '+.hzlawyer.net'
   - '+.hzqsn.com'
   - '+.icvcs.com'
@@ -345,6 +347,7 @@ payload:
   - '+.onebuygz.com'
   - '+.onetools.top'
   - '+.opentrust.net'
+  - '+.osbdf.com'
   - '+.ottai.com'
   - '+.ottiptv.cc'
   - '+.ourschool.cc'
@@ -432,6 +435,7 @@ payload:
   - '+.thmnet.com'
   - '+.timbrd.com'
   - '+.tixue.net'
+  - '+.tmallyc.com'
   - '+.tnas.link'
   - '+.tnas.online'
   - '+.tool56.com'
@@ -527,4 +531,5 @@ payload:
   - '+.zsytit.com'
   - '+.ztytech.com'
   - '+.zuobiao.press'
+  - '+.zysou.com'
   - '+.zzz-log-upload-os.hoyoverse.com'
